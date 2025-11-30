@@ -7,7 +7,7 @@ A giant Minecraft map of the central Cascade mountains of Washington State. 16,6
 
 - This map is huge! It's over 4GB in size. You definitely want to have at least 8GB of memory allocated to Java.
 - The scale is about 1:3 so you almost certainly want [Distant Horizons](https://modrinth.com/mod/uCdwusMi) mod installed with a render distance of at least 128 (256 recommended)! I also highly recommend the following mods: [C2ME](https://modrinth.com/mod/VSNURh3q), [Sodium](https://modrinth.com/mod/AANobbMI), [Noisium](https://modrinth.com/mod/KuNKN7d2) (Improves Distant Horizons performance), and [Faster Random](https://modrinth.com/mod/RfFxanNh) (Improves Distant Horizons performance).
-- The map is currently NOT survival friendly (no resources, ores, etc anywhere) because it's not really that kind of map and it will take half a day to generate those things in that case. Contact me at [sean@seandev.org](mailto:sean@seandev.org) and if there's enough interest in it I will release survival friendly versions.
+- The map is currently NOT survival friendly (no resources, ores, etc anywhere) because it's not really that kind of map and it will take half a day to generate those things in that case. Contact me at [sean@seanteck.com](mailto:sean@seanteck.com) and if there's enough interest in it I will release survival friendly versions.
 - Tested in 1.21.1
 
 
